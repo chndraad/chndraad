@@ -3,24 +3,20 @@
 <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:2B1A12,50:5C3A24,100:A67C52&text=Welcome%20to%20My%20Library&fontColor=F8EDE3&fontSize=42&fontAlignY=38&desc" />
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:2B1A12,50:5C3A24,100:A67C52&text=Welcome%20to%20My%20Library&fontColor=F8EDE3&fontSize=42" />
   <source 
     media="(prefers-color-scheme: light)" 
-    srcset="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:F8EDE3,50:D7B899,100:8B5E3C&text=Welcome%20to%20My%20Library&fontColor=3B241A&fontSize=42&fontAlignY=38&desc" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:2B1A12,50:5C3A24,100:A67C52&text=Welcome%20to%20My%20Library&fontColor=F8EDE3&fontSize=42&fontAlignY=38&desc=" />
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:F8EDE3,50:D7B899,100:8B5E3C&text=Welcome%20to%20My%20Library&fontColor=3B241A&fontSize=42" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:2B1A12,50:5C3A24,100:A67C52 />
 </picture>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=900&color=A67C52&center=true&vCenter=true&width=620&lines=Hey+Bestie!;Let's+Growth+Together!;Im+Still+Learn :)" />
-
 </div>
-
----
 
 <div align="center">
-</div>
-
+<div align="center">
+  
 I’m **Chandra Dwi Ningrum**, System Information Student!
 
 <div align="center">
@@ -87,8 +83,6 @@ Do it now. Dont delay any longer!
 ```
 
 </div>
-
----
 
 <div align="center">
 
